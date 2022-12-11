@@ -13,8 +13,8 @@ const Footer = () => {
                 <div>
                     <span className="footer-title">Services</span>
                     <Link t0='/' className="link link-hover">Branding</Link>
-                    <Link t0='/' className="link link-hover">Design</Link>
-                    <Link t0='/' className="link link-hover">Marketing</Link>
+                    <Link t0='/' className="link link-hover">Web Design</Link>
+                    <Link t0='/' className="link link-hover">Front End Developer</Link>
                     <Link t0='/' className="link link-hover">Advertisement</Link>
                 </div>
                 <div>

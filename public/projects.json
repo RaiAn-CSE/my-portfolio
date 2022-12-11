@@ -1,0 +1,20 @@
+[
+    {
+        "id": "01",
+        "name": "Used Phone Sale",
+        "description": "The website is designed to sell second-hand phones where the user can buy a second-hand phone and the seller can create a seller's account and add his used phone and also seller can boost his post to the user. There will be an admin who can control everything.",
+        "img": "https://i.ibb.co/qsHz71k/usd-phone.jpg"
+    },
+    {
+        "id": "02",
+        "name": "Travel Service",
+        "description": "This website is designed for tourists where tourists can see beautiful places and book those places online. There is a private route. Without login, the user cannot know details about places.Users may quickly contact us and locate our office address. The office address is displayed using Google Maps.",
+        "img": "https://i.ibb.co/cL4GSzY/Capture.jpg"
+    },
+    {
+        "id": "03",
+        "name": "Online Education",
+        "description": "React Routing is used to this website. This website is make responsive for mobile and desktop. Some data stored in the server and displayed course details. Three way authentication for this website - such as email password,google and github. Private route are used in this website so that users can't take premium access without log in.",
+        "img": "https://i.ibb.co/jh4bb4D/Capture.jpg"
+    }
+]

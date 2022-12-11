@@ -13,6 +13,7 @@ const Navbar = () => {
                         <li><Link to='/'>Home</Link></li>
                         <li><Link to='/aboutMe'>About-me</Link></li>
                         <li><Link to='/ContactMe'>Contact-me</Link></li>
+                        <li><Link to='/blog'>Blog</Link></li>
                     </ul>
                 </div>
                 <Link to='/' className="btn btn-ghost normal-case text-xl">Rai An</Link>
@@ -22,6 +23,7 @@ const Navbar = () => {
                     <li><Link to='/'>Home</Link></li>
                     <li><Link to='/aboutMe'>About-me</Link></li>
                     <li><Link to='/ContactMe'>Contact-me</Link></li>
+                    <li><Link to='/blog'>Blog</Link></li>
                 </ul>
             </div>
             <div className="navbar-end">
