@@ -28,7 +28,7 @@ const Banner = () => {
 
                 </div>
                 <div>
-                    <a href='https://drive.google.com/file/d/1e0lS7yLylI5o2mro_sG0j5rqIVCDu177/view?usp=sharing' target="_blank" rel="noopener noreferrer"><button type="button" className="text-white bg-orange-400 hover:bg-orange-500 focus:outline-none focus:ring-4 focus:ring-orange-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mr-2 mb-2 dark:focus:ring-orange-900">Resume</button></a>
+                    <a href='https://drive.google.com/file/d/1dQxyZDITmmDkq6Q_s0gVA2fg9PQka7lM/view?usp=sharing' target="_blank" rel="noopener noreferrer"><button type="button" className="text-white bg-orange-400 hover:bg-orange-500 focus:outline-none focus:ring-4 focus:ring-orange-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mr-2 mb-2 dark:focus:ring-orange-900">Resume</button></a>
                 </div>
             </div>
             <div className="w-full lg:w-1/2">
