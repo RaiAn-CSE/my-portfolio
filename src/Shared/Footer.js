@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import ContactMe from '../Pages/ContactMe/ContactMe';
 
 const Footer = () => {
     return (
@@ -25,13 +26,15 @@ const Footer = () => {
                     <Link to='/' className="link link-hover">Press kit</Link>
                 </div>
                 <div>
-                    <span className="footer-title">Legal</span>
+                    <span className="footer-title">Contact Me</span>
+                    <ContactMe></ContactMe>
+                    {/* <span className="footer-title">Legal</span>
                     <Link t0='/' className="link link-hover">Terms of use</Link>
                     <Link t0='/' className="link link-hover">Privacy policy</Link>
-                    <Link t0='/' className="link link-hover">Cookie policy</Link>
+                    <Link t0='/' className="link link-hover">Cookie policy</Link> */}
                 </div>
             </div>
-            <div className='text-center mt-16'>
+            <div className='text-center mt-8 mb-4'>
                 <p>Copyright © 2022 - All right reserved by RaiAn Industries Ltd</p>
             </div>
         </footer>
