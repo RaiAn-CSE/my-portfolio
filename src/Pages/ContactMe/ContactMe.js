@@ -21,8 +21,12 @@ const ContactMe = () => {
 
             <input type="email" name="user_email" placeholder="Type Email" className="input input-bordered input-md w-full max-w-xs" />
 
-            <input type="text" name="message" placeholder="Type Message" className="input input-bordered input-lg w-full max-w-xs" />
-            <button class="btn btn-outline btn-success h-6 w-20" type="submit" value="Send">Send</button>
+            <textarea type="text" name="message" placeholder="Type Message" className="input input-bordered input-lg w-full max-w-xs" />
+
+            <button className="text-white bg-orange-400 hover:bg-orange-500 focus:outline-none focus:ring-4 focus:ring-orange-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mr-2 mb-2 dark:focus:ring-orange-900" type="submit" value="Send">
+                Send
+            </button>
+
         </form>
     );
 };

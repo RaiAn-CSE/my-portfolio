@@ -28,10 +28,6 @@ const Footer = () => {
                 <div>
                     <span className="footer-title">Contact Me</span>
                     <ContactMe></ContactMe>
-                    {/* <span className="footer-title">Legal</span>
-                    <Link t0='/' className="link link-hover">Terms of use</Link>
-                    <Link t0='/' className="link link-hover">Privacy policy</Link>
-                    <Link t0='/' className="link link-hover">Cookie policy</Link> */}
                 </div>
             </div>
             <div className='text-center mt-8 mb-4'>
