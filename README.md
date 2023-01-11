@@ -1,1 +1,1 @@
-Live Link : https://bespoke-figolla-f639db.netlify.app/
+Live Link Firebase Deploy: https://my-portfolio-a5fb1.web.app/

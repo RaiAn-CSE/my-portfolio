@@ -13,7 +13,7 @@ const Banner = () => {
                 <div>
                     <p className='my-4 text-gray-500 dark:text-gray-400'> Hi, This is Robiul Hasan Raian
                         <br />
-                        <span style={{ color: 'white', fontWeight: 'bold' }}>
+                        <span style={{ color: 'text-gray-500', fontWeight: 'bold' }}>
                             {/* Style will be inherited from the parent element */}
                             <Typewriter
                                 words={['A passionate frontend developer from Bangladesh', 'A MERN Stack Web Developer also']}
